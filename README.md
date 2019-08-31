@@ -38,3 +38,4 @@ And this is my test result of using my program to detect sentence similarity: <b
 ![](./SS/testcase2.png)
 ![](./SS/testcase3.png)
 ![](./SS/testcase4.png)
+![](./SS/testcase5.png)
