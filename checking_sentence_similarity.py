@@ -1,6 +1,5 @@
 import pandas as pd
 from gensim.models import Word2Vec
-import re
 from nltk.tokenize import word_tokenize
 
 
